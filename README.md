@@ -1,7 +1,7 @@
 # obstacle_avoider
 	A ROS package for obstacle avoidance 
 
-To use the package:
+# To use the package:
 	1) Open terminal
 	2) cd ~/catkin_ws/src
 	3) git clone https://github.com/hariharan20/obstacle_avoider
